@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or cite this whitepaper, please cite t as below."
+authors:
+  - family-names: "0starsand0"
+    affiliation: "Metis-engine-team"
+  - name: "Metis-engine-team"
+title: "Deconstructing Machine Mind: From Statistical Symbol Prediction to Continuous Geometric Manifolds and Dynamic Attractor Basins"
+version: "1.0.0"
+date-released: 2026-10-17
+url: "https://github.com/Metis093-engine-team/Metis093-paper"license: CC-BY-NC-ND-4.0
