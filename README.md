@@ -1,4 +1,4 @@
-[![DOI](https://doi.org/10.5281/zenodo.23423269.svg)](https://doi.org/10.5281/zenodo.23423269.svg)
+[![DOI](https://doi.org/10.5281/zenodo.23423269.svg)](https://doi.org/10.5281/zenodo.23423269)
 # 機器心智的解構：從統計符號預測到連續幾何流形與動態吸引子盆地
 
 **Deconstructing Machine Mind: From Statistical Symbol Prediction to Continuous Geometric Manifolds and Dynamic Attractor Basins**
