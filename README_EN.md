@@ -1,3 +1,4 @@
+[![DOI](https://doi.org/10.5281/zenodo.23423269.svg)](https://doi.org/10.5281/zenodo.23423269)
 # Deconstructing Machine Mind: From Statistical Symbol Prediction to Continuous Geometric Manifolds and Dynamic Attractor Basins
 
 ---
