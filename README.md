@@ -105,3 +105,9 @@
 * Putnam, H. (1967). Psychological Predicates. In *Art, Mind, and Religion*. University of Pittsburgh Press.
 * Schrödinger, E. (1944). *What is Life? The Physical Aspect of the Living Cell*. Cambridge University Press.
 * Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
+
+---
+
+## APA
+
+0starsand0, & Metis-engine-team. (2026). Deconstructing Machine Mind: From Statistical Symbol Prediction to Continuous Geometric Manifolds and Dynamic Attractor Basins (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.23423269
